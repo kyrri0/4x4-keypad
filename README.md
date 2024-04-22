@@ -1,4 +1,6 @@
 # 4x4-keypad
+ATMEGA32U4 connected with USB-C
+
 Required parts:
 - 3D Printed:
   - switch plate v3
